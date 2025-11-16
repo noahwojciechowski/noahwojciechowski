@@ -1,16 +1,155 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hey%2C+je+suis+Noah+%F0%9F%91%8B;D%C3%A9veloppeur+Web+Junior;Passionn%C3%A9+par+React+%26+TypeScript" alt="Typing SVG" />
+</div>
 
-<!--
-**noahwojciechowski/noahwojciechowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Développeur Web Junior | React • TypeScript • Next.js</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://portfolio-noah-wojciechowski.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/noah-wojciechowski"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:noah@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 À propos de moi
+```typescript
+const noah = {
+  localisation: "Couëron, France 🇫🇷",
+  formation: "BTS CIEL (Cybersécurité, Informatique et réseaux, ÉLectronique)",
+  actuellement: "En recherche d'alternance | Développeur Web",
+  apprentissage: ["JavaScript", "React", "TypeScript", "Next.js"],
+  passions: ["Code", "Open Source", "Tech", "Résolution de problèmes"],
+  objectif: "Créer des expériences web modernes et intuitives"
+};
+```
+
+---
+
+### 🛠️ Stack Technique
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🚀 Projets Récents
+
+<details>
+<summary><b>🎯 Portfolio Personnel</b> - Site vitrine moderne avec React + TypeScript</summary>
+<br>
+
+- 🔹 Terminal interactif avec commandes personnalisées
+- 🔹 Mode Bento Grid pour navigation alternative
+- 🔹 Animations fluides avec Framer Motion
+- 🔹 100% responsive et optimisé
+
+**Tech:** React • TypeScript • Tailwind CSS • Next.js
+
+[🔗 Voir le site](https://portfolio-noah-wojciechowski.vercel.app) | [💻 Code source](https://github.com/TON_USERNAME/portfolio)
+
+</details>
+
+<details>
+<summary><b>🛒 E-commerce Mock-up</b> - Interface e-commerce avec gestion panier</summary>
+<br>
+
+- 🔹 Catalogue produits dynamique
+- 🔹 Panier avec gestion quantités
+- 🔹 Filtres et recherche
+- 🔹 Design moderne et épuré
+
+**Tech:** React • JavaScript • CSS
+
+[💻 Code source](https://github.com/TON_USERNAME/ecommerce-project)
+
+</details>
+
+<details>
+<summary><b>📝 Todo App Advanced</b> - Gestionnaire de tâches avec fonctionnalités avancées</summary>
+<br>
+
+- 🔹 CRUD complet (Create, Read, Update, Delete)
+- 🔹 Filtres par statut
+- 🔹 LocalStorage pour persistance
+- 🔹 Interface intuitive
+
+**Tech:** React • TypeScript • Tailwind CSS
+
+[🔗 Démo live](https://todo-app-noah.vercel.app) | [💻 Code source](https://github.com/TON_USERNAME/todo-app)
+
+</details>
+
+---
+
+### 📚 En ce moment j'apprends...
+```javascript
+const currentLearning = {
+  formations: ["Graphikart - JavaScript", "Graphikart - React"],
+  objectifs: [
+    "Maîtriser React hooks",
+    "Apprendre TypeScript avancé",
+    "Découvrir Next.js et le SSR",
+    "Contribuer à l'open source"
+  ],
+  prochainement: ["Node.js", "PostgreSQL", "Docker"]
+};
+```
+
+---
+
+### 🎯 Objectifs 2025
+
+- [ ] Décrocher une alternance en développement web
+- [ ] Contribuer à des projets open source
+- [ ] Construire 10+ projets portfolio
+- [ ] Lancer mon premier SaaS
+- [ ] Atteindre 100 contributions GitHub
+
+---
+
+### 💬 Citation du moment
+
+> *"Le code est comme l'humour. Quand il faut l'expliquer, c'est mauvais."* – Cory House
+
+---
+
+### 📫 Contactez-moi
+
+<p align="center">
+  💼 Ouvert aux opportunités d'alternance en développement web<br>
+  📧 <a href="mailto:noah@example.com">noah@example.com</a><br>
+  🌐 <a href="https://portfolio-noah-wojciechowski.vercel.app">Mon Portfolio</a><br>
+  💼 <a href="https://linkedin.com/in/noah-wojciechowski">LinkedIn</a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&color=6366f1&style=for-the-badge" alt="Profile views"/>
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ Si mes projets vous plaisent, n'hésitez pas à leur donner une étoile !</i>
+</div>
