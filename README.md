@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hey%2C+je+suis+Noah+%F0%9F%91%8B;D%C3%A9veloppeur+Web+Junior;Passionn%C3%A9+par+React+%26+TypeScript" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Développeur Web Junior | React • TypeScript • Next.js</h3>
+<h3 align="center">🚀 Développeur Web Junior | React • TypeScript • Javascript</h3>
 
 <p align="center">
   <a href="https://noah-wojciechowski.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
