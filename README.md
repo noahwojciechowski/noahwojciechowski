@@ -96,7 +96,7 @@ const noah = {
 
 <p align="center">
   💼 Ouvert aux opportunités d'alternance en développement web<br>
-  📧 <a href="mailto:noah@example.com">noah@example.com</a><br>
+  📧 <a href="mailto:noahwski@gmail.com">noah@example.com</a><br>
   🌐 <a href="https://noah-wojciechowski.vercel.app">Mon Portfolio</a><br>
   💼 <a href="https://linkedin.com/in/noah-wojciechowski">LinkedIn</a>
 </p>
