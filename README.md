@@ -14,12 +14,12 @@
 ### 👨‍💻 À propos de moi
 ```typescript
 const noah = {
-  localisation: "Couëron, France 🇫🇷",
-  formation: "BTS CIEL (Cybersécurité, Informatique et réseaux, ÉLectronique)",
+  localisation: "Nantes, France 🇫🇷",
+  formation: "Bachelor Développeur Full Stakc, Data & DevOps",
   actuellement: "En recherche d'alternance | Développeur Web",
   apprentissage: ["JavaScript", "React", "TypeScript", "Next.js"],
-  passions: ["Code", "Open Source", "Tech", "Résolution de problèmes"],
-  objectif: "Créer des expériences web modernes et intuitives"
+  passions: ["Code", "Open Source", "Tech", "Aide informatique, Jeux vidéos"],
+  objectif: "Créer des expériences web modernes
 };
 ```
 
@@ -53,8 +53,6 @@ const noah = {
 
 **Tech:** React • TypeScript • Tailwind CSS • Next.js
 
-[🔗 Voir le site](https://portfolio-noah-wojciechowski.vercel.app) | [💻 Code source](https://github.com/TON_USERNAME/portfolio)
-
 </details>
 
 <details>
@@ -67,8 +65,6 @@ const noah = {
 - 🔹 Design moderne et épuré
 
 **Tech:** React • JavaScript • CSS
-
-[💻 Code source](https://github.com/TON_USERNAME/ecommerce-project)
 
 </details>
 
@@ -83,56 +79,28 @@ const noah = {
 
 **Tech:** React • TypeScript • Tailwind CSS
 
-[🔗 Démo live](https://todo-app-noah.vercel.app) | [💻 Code source](https://github.com/TON_USERNAME/todo-app)
-
 </details>
 
 ---
 
-### 📚 En ce moment j'apprends...
-```javascript
-const currentLearning = {
-  formations: ["Graphikart - JavaScript", "Graphikart - React"],
-  objectifs: [
-    "Maîtriser React hooks",
-    "Apprendre TypeScript avancé",
-    "Découvrir Next.js et le SSR",
-    "Contribuer à l'open source"
-  ],
-  prochainement: ["Node.js", "PostgreSQL", "Docker"]
-};
-```
-
----
-
-### 🎯 Objectifs 2025
+### 🎯 Objectifs 2026
 
 - [ ] Décrocher une alternance en développement web
 - [ ] Contribuer à des projets open source
 - [ ] Construire 10+ projets portfolio
-- [ ] Lancer mon premier SaaS
 - [ ] Atteindre 100 contributions GitHub
 
 ---
 
-### 💬 Citation du moment
-
-> *"Le code est comme l'humour. Quand il faut l'expliquer, c'est mauvais."* – Cory House
-
----
 
 ### 📫 Contactez-moi
 
 <p align="center">
   💼 Ouvert aux opportunités d'alternance en développement web<br>
   📧 <a href="mailto:noah@example.com">noah@example.com</a><br>
-  🌐 <a href="https://portfolio-noah-wojciechowski.vercel.app">Mon Portfolio</a><br>
+  🌐 <a href="https://noah-wojciechowski.vercel.app">Mon Portfolio</a><br>
   💼 <a href="https://linkedin.com/in/noah-wojciechowski">LinkedIn</a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&color=6366f1&style=for-the-badge" alt="Profile views"/>
-</div>
 
 ---
 
