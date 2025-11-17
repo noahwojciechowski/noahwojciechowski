@@ -19,7 +19,7 @@ const noah = {
   actuellement: "En recherche d'alternance | Développeur Web",
   apprentissage: ["JavaScript", "React", "TypeScript", "Next.js"],
   passions: ["Code", "Open Source", "Tech", "Aide informatique, Jeux vidéos"],
-  objectif: "Créer des expériences web modernes
+  objectif: "Créer des expériences web modernes"
 };
 ```
 
